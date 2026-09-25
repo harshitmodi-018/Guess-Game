@@ -5,7 +5,7 @@ print("-"*35)
 print("....Welcome to Guess Game....\n")
 print("-"*35)
 
-computer_no = random.randint(1,10)
+computer_no = random.randint(1,50)
 user_attempt = 0
 
 while(True):
