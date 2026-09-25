@@ -1,8 +1,9 @@
 # Guess Number Game
 
 import random
-
+print("-"*35)
 print("....Welcome to Guess Game....\n")
+print("-"*35)
 
 computer_no = random.randint(1,10)
 user_attempt = 0
